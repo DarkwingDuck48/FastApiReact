@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Example",
+			"path": "D:\\Projects\\fastapi-react-auth\\fastapi-react-auth-code"
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "FiraCode NFM",
+		"editor.fontLigatures": true,
+		"terminal.integrated.fontFamily": "FiraCode NFM"
+
+	}
+}
